@@ -5,7 +5,7 @@
 My attempt at making a small variable power supply. Because sometimes you want your adjustable power supply, but don't want to work too hard for it. [^1]
  
  
-[^1]: Corny af.
+[^1]: Corny af. [See why!](https://amzn.to/3gnkHUb)
  
 ## Parts
 
