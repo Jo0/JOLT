@@ -5,6 +5,7 @@
 - [JOLT Benchtop Power Supply](#jolt-benchtop-power-supply)
   - [What is this?](#what-is-this)
   - [Parts](#parts)
+  - [Made with](#made-with)
   - [What's next?](#whats-next)
   - [Contact Me](#contact-me)
 
@@ -21,6 +22,7 @@ My attempt at making a small variable power supply. Because sometimes you want y
 | Name | Cost [^2] | Per Assembly |
 | --- | ----------- | --- |
 | 3D Printed Enclosure[^3] |  |
+| Screws | ? | ? |
 | [UCTRONIC DP50V5A Adjustable Power Supply Module](https://amzn.to/34FX7Q8) | 35.98 | |
 | [WX-DC2416 36V 5A Switching Power Supply](https://amzn.to/3GvGlQN) | 21.29 ||
 | [LM2596 DC-DC Step Down Buck Converter](https://amzn.to/3rCgMcN) | 15.99 | 1.60 |
@@ -32,7 +34,12 @@ Per Assembly Total | | 77.45 |
 [^2]: At the time, duh.
 [^3]: Etsy Page Coming Soon! Sign up to get notified [here](https://forms.gle/KtF2VuANfnq3saW86).
  
- 
+ ## Made with
+
+- Tevo Tarantula
+- Inland PLA
+- Random 
+
 ## What's next?
 
 - Slightly polishing up V0
