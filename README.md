@@ -38,7 +38,6 @@ Per Assembly Total | | $77.45 |
 
 - Tevo Tarantula
 - Inland PLA
-- Random 
 
 ## What's next?
 
