@@ -23,12 +23,12 @@ My attempt at making a small variable power supply. Because sometimes you want y
 | --- | ----------- | --- |
 | 3D Printed Enclosure[^3] |  |
 | Screws | ? | ? |
-| [UCTRONIC DP50V5A Adjustable Power Supply Module](https://amzn.to/34FX7Q8) | 35.98 | |
-| [WX-DC2416 36V 5A Switching Power Supply](https://amzn.to/3GvGlQN) | 21.29 ||
-| [LM2596 DC-DC Step Down Buck Converter](https://amzn.to/3rCgMcN) | 15.99 | 1.60 |
-| [IEC 320 C14 Panel Socket](https://amzn.to/3guENvC) | 8.69 | 2.90 |
-| Total | 81.95 | 4.5 |
-Per Assembly Total | | 77.45 | 
+| [UCTRONIC DP50V5A Adjustable Power Supply Module](https://amzn.to/34FX7Q8) | $35.98 | |
+| [WX-DC2416 36V 5A Switching Power Supply](https://amzn.to/3GvGlQN) | $21.29 ||
+| [LM2596 DC-DC Step Down Buck Converter](https://amzn.to/3rCgMcN) | $15.99 | $1.60 |
+| [IEC 320 C14 Panel Socket](https://amzn.to/3guENvC) | $8.69 | $2.90 |
+| Total | $81.95 | $4.5 |
+Per Assembly Total | | $77.45 | 
 
 
 [^2]: At the time, duh.
