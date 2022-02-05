@@ -27,7 +27,7 @@ My attempt at making a small variable power supply. Because sometimes you want y
 | [WX-DC2416 36V 5A Switching Power Supply](https://amzn.to/3GvGlQN) | $21.29 ||
 | [LM2596 DC-DC Step Down Buck Converter](https://amzn.to/3rCgMcN) | $15.99 | $1.60 |
 | [IEC 320 C14 Panel Socket](https://amzn.to/3guENvC) | $8.69 | $2.90 |
-| Total | $81.95 | $4.5 |
+| Total | $81.95 | $4.50 |
 Per Assembly Total | | $77.45 | 
 
 
