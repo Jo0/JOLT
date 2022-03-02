@@ -4,7 +4,7 @@
 
 - [JOLT Benchtop Power Supply](#jolt-benchtop-power-supply)
   - [What is this?](#what-is-this)
-  - [Parts](#parts)
+  - [V0 Parts](#v0-parts)
   - [Made with](#made-with)
   - [What's next?](#whats-next)
   - [Contact Me](#contact-me)
@@ -17,18 +17,21 @@ My attempt at making a small variable power supply. Because sometimes you want y
  
 [^1]: Corny af. [See why!](https://amzn.to/3gnkHUb)
  
-## Parts
+## V0 Parts
 
 | Name | Cost [^2] | Per Assembly |
 | --- | ----------- | --- |
 | 3D Printed Enclosure[^3] |  |
-| Screws | ? | ? |
 | [UCTRONIC DP50V5A Adjustable Power Supply Module](https://amzn.to/34FX7Q8) | $35.98 | |
 | [WX-DC2416 36V 5A Switching Power Supply](https://amzn.to/3GvGlQN) | $21.29 ||
+| [2x 50x10mm 12V Fans](https://amzn.to/3pu4OAo) | $15.99 | 
 | [LM2596 DC-DC Step Down Buck Converter](https://amzn.to/3rCgMcN) | $15.99 | $1.60 |
 | [IEC 320 C14 Panel Socket](https://amzn.to/3guENvC) | $8.69 | $2.90 |
-| Total | $81.95 | $4.50 |
-Per Assembly Total | | $77.45 | 
+| [M3 Countersunk Screws](https://amzn.to/36IAZp1) | $9.33 | $0.31 |
+| [Nylon Spade Quick Disconnect Connectors](https://amzn.to/3hyavbW) | $12.95 | $0.45 |
+| [JST Female and Male Connection Wires](https://amzn.to/35kW9t7) | $12.99 | $0.26 |
+| Total | $133.21| $5.52 |
+Per Assembly Total | | $78.78| 
 
 
 [^2]: At the time, duh.
